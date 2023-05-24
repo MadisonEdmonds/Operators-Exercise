@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\repos\Operators-Exercise\OperatorsExercise1\OperatorsExercise1\bin\Debug\OperatorsExercise1.exe.config
+C:\Users\HP\Desktop\repos\Operators-Exercise\OperatorsExercise1\OperatorsExercise1\bin\Debug\OperatorsExercise1.exe
+C:\Users\HP\Desktop\repos\Operators-Exercise\OperatorsExercise1\OperatorsExercise1\bin\Debug\OperatorsExercise1.pdb
+C:\Users\HP\Desktop\repos\Operators-Exercise\OperatorsExercise1\OperatorsExercise1\obj\Debug\OperatorsExercise1.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\repos\Operators-Exercise\OperatorsExercise1\OperatorsExercise1\obj\Debug\OperatorsExercise1.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\repos\Operators-Exercise\OperatorsExercise1\OperatorsExercise1\obj\Debug\OperatorsExercise1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\repos\Operators-Exercise\OperatorsExercise1\OperatorsExercise1\obj\Debug\OperatorsExercise1.exe
+C:\Users\HP\Desktop\repos\Operators-Exercise\OperatorsExercise1\OperatorsExercise1\obj\Debug\OperatorsExercise1.pdb
